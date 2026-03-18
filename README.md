@@ -2,8 +2,7 @@
 
 Hello There
 
-I am a Java Backend Developer who enjoys building reliable and scalable backend systems.
-My primary focus is on developing robust RESTful APIs using Spring Boot and managing structured data with MySQL.
+I am a Java Backend Developer who enjoys building reliable and scalable backend systems.My primary focus is on developing robust RESTful APIs using Spring Boot and managing structured data with MySQL.
 
 I am passionate about backend development and always interested in learning new technologies that help improve application performance, scalability, and maintainability.
 
@@ -18,12 +17,10 @@ Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Girijith15">
 </a>
 
 <a href="https://www.linkedin.com/in/girijith19/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
