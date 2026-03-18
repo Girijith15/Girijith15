@@ -13,7 +13,6 @@ I am passionate about backend development and always interested in learning new 
 I am a passionate Java Backend Developer focused on designing and building scalable backend systems.
 I specialize in developing high-performance RESTful APIs using Java and Spring Boot, with a strong understanding of backend architecture and database design.
 
-Connect With Me
 
 <p align="center">
 
